@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to Github Pages!"
+title:  "Github Pages!"
 date:   2018-04-25
 ---
 
